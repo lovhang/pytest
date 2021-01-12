@@ -3,6 +3,7 @@ import math
 rnd = np.random
 rnd.seed(0)
 S = 10
+######
 R = 4
 T = 10
 s = [i for i in range(1,S+1)] #road segment set
